@@ -1,0 +1,58 @@
+#aboutthird{
+    padding: 20px 0px;
+}
+.tharty_five p{
+    background-color: green;
+    font-size: 18px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    color: #FDFDFD;
+    padding: 20px 20px;
+}
+
+.tharty_six{
+    background-color: orange;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    color: #FDFDFD;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+
+.tharty_seven{
+    margin-top: 20px;
+    position: relative;
+    width: 100%; 
+    max-width: 600px;
+}
+
+.tharty_seven img{
+    
+    width: 100%;
+    height: auto; 
+    display: block;
+    transform: scale(1);
+    transition: all ease-in-out 0.2s;
+}
+
+.tharty_seven img:hover{
+    transform: scale(1.05);
+}
+
+.text_inner p{
+    position: absolute;
+    top: 65%;
+    left: 10%;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    color: #FDFDFD;
+    
+    font-size: 16px; 
+    text-align: center;
+    
+    
+}
+
+
+

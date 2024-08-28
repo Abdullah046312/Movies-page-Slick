@@ -1,0 +1,19 @@
+.four{
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+}
+
+.four button{
+    padding: 10px 10px;
+    font-size: 14px;
+    background-color: #F8A64C;
+    color: #FDFDFD;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 800;
+    border: none;
+}
+
+.four button:hover{
+    background-color: #6A55EA;
+}

@@ -1,0 +1,39 @@
+/* styles.css */
+.five {
+    font-family: Arial, sans-serif;
+}
+
+.pagination {
+    display: flex;
+    /* justify-content: center; */
+    margin: 20px 0;
+}
+
+.pagination a {
+    display: block;
+    padding: 10px 15px;
+    margin: 0 5px;
+    text-decoration: none;
+    color: #007bff;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+}
+
+.pagination a:hover {
+    background-color: #007bff;
+    color: white;
+}
+
+.pagination .prev, .pagination .next {
+    font-weight: bold;
+}
+
+.pagination .page {
+    background-color: #f8f9fa;
+}
+
+.pagination .page.active {
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+}

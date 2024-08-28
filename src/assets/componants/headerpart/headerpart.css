@@ -1,0 +1,21 @@
+#header{
+    background-color: #3639A4;
+    padding-bottom: 40px;
+    margin-bottom: 20px;
+}
+
+.manu{
+    font-size: 18px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    
+}
+
+.mx-auto a{
+    color: #FFFF !important;
+}
+
+.three button{
+    background-color: orange !important;
+    font-weight: 600;
+}
